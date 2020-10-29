@@ -4,7 +4,7 @@ A simple Discord Bot with a .txt file to extend out simple responses.
 
 # Clone or Download 
 
-Mount these files in your respected directory that you will use to host these files running a NodeJS command in Terminal. I won't go over how to create a Discord Api Bot. You should be familiarize yourself with linking the bot to your server on your own at https://discord.com/developers/docs/topics/oauth2. Then find the oauth2 link to your server and invite / add your bot! 
+Mount these files in your respected directory that you will use to host these files running a NodeJS command in Terminal. I won't go over how to create a Discord API Bot. Familiarize yourself with linking the bot to your server on your own at https://discord.com/developers/docs/topics/oauth2. Then find the oauth2 link to your server and that's it! 
 
 # Setup 
 
