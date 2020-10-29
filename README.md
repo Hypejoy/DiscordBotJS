@@ -1,6 +1,6 @@
 # DiscordBotJS
 
-A simple Discord Bot with a .txt file to extend out simple responses.
+A simple Discord Bot with a .txt file to send out simple responses and server greetings.
 
 # Clone or Download 
 
