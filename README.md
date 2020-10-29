@@ -5,6 +5,7 @@ A simple Discord Bot with a .txt file to extend out simple responses.
 Mount these files in your respected directory that you will use to host these files running a NodeJS command in Terminal.
 
 ##Setup 
+
 `npm install`
 
 `cd or mkdir`
