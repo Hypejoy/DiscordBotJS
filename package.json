@@ -1,0 +1,14 @@
+{
+  "name": "superdeathmachine-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Matthew",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^10.0.1"
+  }
+}
