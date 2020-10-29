@@ -6,7 +6,7 @@ A simple Discord Bot with a .txt file to extend out simple responses.
 
 Mount these files in your respected directory that you will use to host these files running a NodeJS command in Terminal. I won't go over how to create a Discord API Bot. Familiarize yourself with linking the bot to your server on your own at https://discord.com/developers/docs/topics/oauth2. Then find the oauth2 link to your server and that's it! 
 
-# Setup 
+# 1. Setup 
 
 `cd or mkdir discord-bot` cd the files to somewhere specific or create a new directory
 
@@ -17,7 +17,7 @@ Mount these files in your respected directory that you will use to host these fi
 `node app.js` to run the bot 
 
 
-# Keeping the Bot Running after closing Terminal
+# 2. Keeping the Bot Running after closing Terminal
 
 Using Forever https://www.npmjs.com/package/forever
 
@@ -27,9 +27,15 @@ Using Forever https://www.npmjs.com/package/forever
 
 `forever stop app.js` To Stop App
 
+`forever stopall` If you get a hangup use "Stop All" Instead.
+
 That's it!
 
 
-# Edit Responses .TXT File
+# 3. Edit Responses .TXT File
 
 Create your own responses in the .txt file and restart your node app! 
+
+# 4. Extend this bot
+
+Head on over to https://discord.js.org/#/ to enable GUID rankings, server commands, and more! 
