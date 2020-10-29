@@ -2,11 +2,11 @@
 
 A simple Discord Bot with a .txt file to extend out simple responses.
 
-##Clone or Download 
+# Clone or Download 
 
 Mount these files in your respected directory that you will use to host these files running a NodeJS command in Terminal.
 
-##Setup 
+# Setup 
 
 `npm install`
 
@@ -14,7 +14,7 @@ Mount these files in your respected directory that you will use to host these fi
 
 `node app.js`
 
-##Keeping the Bot Running after closing Terminal
+# Keeping the Bot Running after closing Terminal
 
 Using Forver 
 
