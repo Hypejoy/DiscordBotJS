@@ -36,6 +36,9 @@ That's it!
 
 Create your own responses in the .txt file and restart your node app! 
 
+'addresponse:ServerGreeting:  Hello! Welcome to my Discord channel! '
+
+
 # 4. Extend this bot
 
 Head on over to https://discord.js.org/#/ to enable GUID rankings, server commands, and more! 
