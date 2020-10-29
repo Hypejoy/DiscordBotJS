@@ -1,8 +1,12 @@
 //BOT ANNOUNCEMENTS
-addresponse:PublishUpdate_VV1:            Hello! Welcome to the Joyhype Discord channel! Here you'll be able to chat with, discuss, and follow updates by us! Feel free to introduce yourself in the #welcome channel! Feel free to visit www.joyhype.com and follow our blog for more updates! We're also on social media services @Joyhype
+addresponse:PublishUpdate_VV1:            Hello! Welcome to the Joyhype Discord channel! Here you'll be able to chat with, discuss, and follow updates by us! Feel free to introduce yourself in the #welcome channel! Feel free to visit www.example.com and follow our blog for more updates! We're also on social media @ 
+
 addresponse:PublishUpdate_VV2:            -- I'll be here to help assist you with some basic questions that you may have. You can find a list of commands to ask me by typing "Bot Commands". Thanks!
-addresponse:PublishWcm_VV1:               Hello and welcome to the Joyhype Discord! 🙂 Please introduce yourself to the community! Tell us a little about yourself. Why you like 🍕, and what games you're currently playing! If you have any questions about Joyhype or need some help you can find out by typing "Bot Commands" in a personal DM.
+
+addresponse:PublishWcm_VV1:               Hello and welcome to the Your Discord Server! 🙂 Please introduce yourself to the community! Tell us a little about yourself. Why you like 🍕, and what games you're currently playing! If you have any questions about Joyhype or need some help you can find out by typing "Bot Commands" in a personal DM.
+
 addresponse:PublishWcm_Vv2:               Welcome to the development channel! Here you will find a dump of images detailing the progression of the games we are working on development progress! Feel free to jump in and give your thoughts and feedback!
+
 addresponse:PublishWcm_Vv2:
 
 //BOT COMMANDS
@@ -10,14 +14,14 @@ addresponse:Bot Commands:                 How can I help you? Type the following
 addresponse:Bot I need help:              How can I help you? Type the following
 addresponse:I need help:                  How can I help you? Type the following
 addresponse:I have a question:            How can I help you? Type the following
+
 //COMMAND LISTINGS
 addresponse:How can I help you? Type the following: "Contact Info", "General Info", "Press Reachout", "I want to be a tester"
 
 //Bot Commands
 addresponse:Contact Info:                 You can contact us by directly messaging @Matthew, or sending an e-mail to hello@joyhype.com! 😋 😎
-addresponse:General Info:                 Our website is www.Joyhype.com, Contact us @ by typing "contact info", and for press inquiries type "press reachout". 🙂
-addresponse:Press Reachout:               If you need presskit assets please e-mail us at hello@joyhype.com with the subject heading "Presskit - COMPANY / NAME"!
-addresponse:Press Reach out:               If you need presskit assets please e-mail us at hello@joyhype.com with the subject heading "Presskit - COMPANY / NAME"!
-addresponse:I want to be a tester:        Want to test our games before they're out? Send us an E-mail with the subject heading "QA - NAME @ hello@joyhype.com"!
+addresponse:General Info:                 Our website is www.example.com, Contact us @ by typing "contact info", and for press inquiries type "press reachout". 🙂
+addresponse:Press Reachout:               If you need presskit assets please e-mail us at hello@example.com with the subject heading "Presskit - COMPANY / NAME"!
+addresponse:Press Reach out:               If you need presskit assets please e-mail us at hello@example.com with the subject heading "Presskit - COMPANY / NAME"!
+addresponse:I want to be a tester:        Want to test our games before they're out? Send us an E-mail with the subject heading "QA - NAME @ hello@example.com"!
 
-//BOT BLOG POSTS
