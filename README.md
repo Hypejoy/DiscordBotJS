@@ -12,9 +12,10 @@ Mount these files in your respected directory that you will use to host these fi
 
 `npm install` to install dependencies 
 
+`bot.login('API TOKEN GOES HERE');` edit token in App.JS to properly get bot running on Discord
+
 `node app.js` to run the bot 
 
-`` edit token
 
 # Keeping the Bot Running after closing Terminal
 
