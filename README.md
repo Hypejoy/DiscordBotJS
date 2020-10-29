@@ -16,7 +16,7 @@ Mount these files in your respected directory that you will use to host these fi
 
 # Keeping the Bot Running after closing Terminal
 
-Using Forver 
+Using Forever 
 
 `npm i -g forever` 
 
