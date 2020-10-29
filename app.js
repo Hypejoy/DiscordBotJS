@@ -100,4 +100,4 @@ bot.on('message', message => {
 
 });
 
-bot.login('Mzg0NDMyMTU2MDM2MDM4NjU3.DPyt7Q.izc2Tq2e4lMBjM2LnKzjSiheysQ');
+bot.login('API TOKEN GOES HERE');
