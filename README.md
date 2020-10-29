@@ -19,11 +19,13 @@ Mount these files in your respected directory that you will use to host these fi
 
 # Keeping the Bot Running after closing Terminal
 
-Using Forever 
+Using Forever https://www.npmjs.com/package/forever
 
 `npm i -g forever` 
 
-`forever start app.js` 
+`forever start app.js` To Start App
+
+`forever stop app.js` To Stop App
 
 That's it!
 
